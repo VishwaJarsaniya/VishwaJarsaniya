@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Machine Learning.<br>👯 I’m looking to collaborate on web dev projects as a frontend developer.<br>💬 Ask me about React.js<br>
+🌱 I’m currently learning Machine Learning.<br>👯 I’m looking to collaborate on web development projects as a frontend developer.<br>💬 Ask me about React.js<br>
 🌐 Socials : <br> [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishwa-jarsaniya/) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vishwaaa_j) 
 
